@@ -1,5 +1,13 @@
 # NumPy
 
+- **Website:** https://www.numpy.org
+- **Documentation:** http://docs.scipy.org/
+- **Mailing list:** https://mail.python.org/mailman/listinfo/numpy-discussion
+- **Source code:** https://github.com/numpy/numpy
+- **Contributing:** https://www.numpy.org/devdocs/dev/index.html
+- **Bug reports:** https://github.com/numpy/numpy/issues
+- **Report a security vulnerability:** https://tidelift.com/docs/security
+
 NumPy is the fundamental package for scientific computing with Python. It contains among other things:
 
 <ul>
@@ -21,3 +29,8 @@ Besides its obvious scientific uses, NumPy can also be used as an efficient mult
 <li>WinPython: Another free distribution including scientific packages and the Spyder IDE. Windows only, but more actively maintained and supports the latest Python 3 versions.</li>
 <li>Pyzo: A free distribution based on Anaconda and the IEP interactive development environment. Supports Linux, Windows and Mac.</li>
   </ul>
+
+## Installing via PIP Command in Terminal / Command Prompt
+   
+   pip install numpy
+
